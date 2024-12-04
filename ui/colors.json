@@ -1,0 +1,128 @@
+{
+    "level-search-bg": {
+        "r": 15,
+        "g": 22,
+        "b": 38
+    },
+    "level-search-bar-bg": {
+        "r": 22,
+        "g": 33,
+        "b": 55
+    },
+    "quick-search-bg": {
+        "r": 15,
+        "g": 22,
+        "b": 38
+    },
+    "difficulty-filters-bg": {
+        "r": 15,
+        "g": 22,
+        "b": 38
+    },
+    "length-filters-bg": {
+        "r": 15,
+        "g": 22,
+        "b": 38
+    },
+    "list-layer-bg": {
+        "r": 15,
+        "g": 22,
+        "b": 38
+    },
+    "list-cell-odd": {
+        "r": 15,
+        "g": 22,
+        "b": 38
+    },
+    "list-cell-even": {
+        "r": 27,
+        "g": 42,
+        "b": 66
+    },
+    "comment-cell-odd": {
+        "r": 15,
+        "g": 22,
+        "b": 38
+    },
+    "comment-cell-even": {
+        "r": 27,
+        "g": 42,
+        "b": 66
+    },
+    "comment-cell-small-odd": {
+        "r": 15,
+        "g": 22,
+        "b": 38
+    },
+    "comment-cell-small-even": {
+        "r": 27,
+        "g": 42,
+        "b": 66
+    },
+    "comment-cell-bg-odd": {
+        "r": 15,
+        "g": 22,
+        "b": 38
+    },
+    "comment-cell-bg-even": {
+        "r": 27,
+        "g": 42,
+        "b": 66
+    },
+    "comment-list-layer-bg": {
+        "r": 15,
+        "g": 22,
+        "b": 38
+    },
+    "info-description-bg": {
+        "r": 27,
+        "g": 42,
+        "b": 66
+    },
+    "edit-description-bg": {
+        "r": 15,
+        "g": 22,
+        "b": 38
+    },
+    "edit-name-bg": {
+        "r": 15,
+        "g": 22,
+        "b": 38
+    },
+    "main-menu-bg": {
+        "r": 0,
+        "g": 84,
+        "b": 173
+    },
+    "main-menu-ground": {
+        "r": 0,
+        "g": 119,
+        "b": 255
+    },
+    "comment-list-outline-brown": {
+        "r": 15,
+        "g": 15,
+        "b": 15
+    },
+    "comment-list-outline-blue": {
+        "r": 15,
+        "g": 15,
+        "b": 15
+    },
+    "background": {
+        "r": 38,
+        "g": 107,
+        "b": 255
+    },
+    "normal-mode-bar": {
+        "r": 166,
+        "g": 148,
+        "b": 255
+    },
+    "chest-opened-overlay": {
+        "r": 0,
+        "g": 0,
+        "b": 0,
+        "a": 0
+    }
+}
